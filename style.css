@@ -1,3 +1,7 @@
 *{
     margin: auto;
 }
+
+h1{
+    border-radius: 5 px;
+}
